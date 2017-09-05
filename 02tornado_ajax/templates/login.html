@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>login</title>
+    <link rel="stylesheet" href="{{ static_url("common.css") }}">
+</head>
+<body>
+<form action="/login" method="post">
+    <input id="username" type="text" name="username">
+    <input id="password" type="password" name="password">
+    <input id="submit" type="button" value="登录" onclick="SubmitForm();"/>
+</form>
+<script>
+    xhr = null;
+    function SubmitForm() {
+        xhr = new XMLHttpRequest();
+        xhr.open("POST", "/login", true);
+        xhr.onreadystatechange = func;
+        xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded; charset=utf-8");
+//        xhr.send("username=admin;password=admin123");
+        xhr.send("username=" + document.getElementById('username').value + ";password=" + document.getElementById('password').value);
+    }
+
+    function func() {
+        if (xhr.readyState == 4) {
+            console.log(1);
+            console.log(xhr.responseText);
+            var data = xhr.responseText;
+            var ret_dict = JSON.parse(data);
+            if (ret_dict.status) {
+
+            } else {
+                alert(ret_dict.message);
+            }
+        }
+    }
+</script>
+</body>
+</html>
