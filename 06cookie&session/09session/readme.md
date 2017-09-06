@@ -3,7 +3,9 @@
 参考:
 
 http://www.cnblogs.com/xinsiwei18/p/5836381.html
+
 http://www.cnblogs.com/maociping/p/5351340.html
+
 https://blog.ansheng.me/article/python-full-stack-way-tornado-cookie-and-session.html
 
 在Tornado中是不提供像Cookie这种直接设置Session的，需要我们自己写插件来进行对Session的增删改
