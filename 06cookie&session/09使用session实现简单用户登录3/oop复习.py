@@ -16,8 +16,8 @@ class DictDemo:
         return len(self.dict)
 
 
-dictDemo = DictDemo('key0', 'value0')
-print(dictDemo['key0'])  # value0
+dictDemo = DictDemo('key0', 'value0')  # 自动执行 __setitem__
+print(dictDemo['key0'])  # value0       # 自动执行 __getitem__
 dictDemo['key1'] = 'value1'
 print(dictDemo['key1'])  # value1
 print(len(dictDemo))  # 2

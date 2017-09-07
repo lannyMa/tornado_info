@@ -2,12 +2,10 @@
 # coding=utf-8
 
 
-import tornado.web
 import tornado.ioloop
+import tornado.web
 
 container = {}
-
-
 class Session:
     def __init__(self, Handler):
         self.Handler = Handler
@@ -24,14 +22,19 @@ class Session:
 
     def __setitem__(self, key, value):
         if self.random_str == None:
+            ## key随便设置
             random_str = self.Handler.get_cookie('uc')
+
+            # 如果前端没这个key,则给初始化以下
             if not self.random_str:
                 random_str = self.__genarate_random_str()
                 container[random_str] = {}
-
+            # 如果前端有这个key
             else:
+                # 判断可以是否在后端有存储, 如果有存,不做处理
                 if self.random_str in container.keys():
                     pass
+                # 如果不一致 则重新初始化
                 else:
                     random_str = self.__genarate_random_str()
                     container[random_str] = {}
@@ -52,20 +55,20 @@ class Session:
         return value
 
 
-class BashHandler(tornado.web.RequestHandler):
+class BaseHandler(tornado.web.RequestHandler):
     def initialize(self):
         self.session = Session(self)
 
 
-class SetHandler(BashHandler):
+class SetHandler(BaseHandler):
     def get(self, *args, **kwargs):
-        self.session['Hello'] = 'World'
+        self.session['hello'] = "world"
         self.write('OK')
 
 
-class GetHandler(BashHandler):
+class GetHandler(BaseHandler):
     def get(self, *args, **kwargs):
-        val = self.session['Hello']
+        val = self.session['hello']
         self.write(val)
 
 
@@ -75,6 +78,6 @@ application = tornado.web.Application([
 ])
 
 if __name__ == '__main__':
-    print('http://127.0.0.1:8000')
-    application.listen(8000)
+    print('http://127.0.0.1:8888/set')
+    application.listen(8888)
     tornado.ioloop.IOLoop.instance().start()

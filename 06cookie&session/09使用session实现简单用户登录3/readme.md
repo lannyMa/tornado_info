@@ -13,30 +13,26 @@ https://blog.ansheng.me/article/python-full-stack-way-tornado-cookie-and-session
 Session的数据是保存在服务端的，如果要应用Session必须要依赖Cookie，因为Cookie的值就等于Session的Key
 
 Session在内存中的存储方式如下:
+- session key的数据结构
 ```
-key(随机字符串) = {
-	{'k1','v1'},
-	{'k2','v2'},
-	{'k3','v3'},
-	....
-}
 
-key(随机字符串) = {
-	{'k1','v1'},
-	{'k2','v2'},
-	{'k3','v3'},
-	....
+{
+    "第一个人-随机字符串xxxxxx":{
+        "k1":"v1",
+        "k2":"v2",
+    }
+    "第二个人-随机字符串yyyyy":{
+        "k1":"v1",
+        "k2":"v2",
+    }
 }
-
-key(随机字符串) = {
-	{'k1','v1'},
-	{'k2','v2'},
-	{'k3','v3'},
-	....
-}
-
-.....
 ```
+
+- 随机字符串设置cookie
+```
+self.set_cookie("iiiii",random_str)
+```
+
 ![](http://ww1.sinaimg.cn/large/9e792b8fgy1fja87en7gcj20q80cn0t1)
 
 
