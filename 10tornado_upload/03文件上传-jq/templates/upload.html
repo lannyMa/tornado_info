@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<input type="file" id="img"/>
+<input type="button" onclick="UploadFile();"/>
+<script>
+    function UploadFile() {
+        var fileObj = $("#img")[0].files[0];
+        var form = new FormData();
+        form.append("k1", "v1");
+        form.append("fff", fileObj);
+
+        $.ajax({
+            type: 'POST',
+            url: '/index',
+            data: form,
+            processData: false,  // tell jQuery not to process the data
+            contentType: false,  // tell jQuery not to set contentType
+            success: function (arg) {
+                console.log(arg);
+            }
+        })
+    }
+</script>
+</body>
+</html>
