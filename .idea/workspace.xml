@@ -2,29 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc9c33c7-5c1b-4636-a665-cfbc2c785513" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04tornado_cookie/media/yanshis.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05tornado_fengye" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08tornado_upload/files/girl.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09tornado_form" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01tornado_mvc/controllers/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01tornado_mvc/controllers/account.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01tornado_mvc/controllers/home.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01tornado_mvc/start.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01tornado_mvc/templates/home/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02tornado_ajax/start.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02tornado_ajax/templates/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03tornado_jq_ajax/index.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03tornado_jq_ajax/statics/common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03tornado_jq_ajax/statics/jquery-1.8.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03tornado_jq_ajax/template/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04tornado_cookie/index.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04tornado_cookie/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04tornado_cookie/statics/common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04tornado_cookie/template/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04tornado_cookie/template/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04tornado_cookie/template/manager.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08tornado_upload/start.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码/03后端验证前端发来的code/Monaco.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码/03后端验证前端发来的code2/Monaco.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04tornado_cookie/02签名的cookie用户登录案例/start.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码/03后端验证前端发来的code/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码/03后端验证前端发来的code/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码/03后端验证前端发来的code/check_code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码/03后端验证前端发来的code/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码/03后端验证前端发来的code/start.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码/03后端验证前端发来的code/template/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码/03后端验证前端发来的code/template/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码/03后端验证前端发来的code2/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码/03后端验证前端发来的code2/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码/03后端验证前端发来的code2/check_code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码/03后端验证前端发来的code2/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码/03后端验证前端发来的code2/start.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码/03后端验证前端发来的code2/template/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码/03后端验证前端发来的code2/template/login.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04tornado_cookie/index.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04tornado_cookie/media/yanshis.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04tornado_cookie/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04tornado_cookie/statics/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04tornado_cookie/template/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04tornado_cookie/template/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04tornado_cookie/template/manager.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06cookie&amp;session/01/start.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06cookie&amp;session/01/templates/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06cookie&amp;session/02/start.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06cookie&amp;session/02/templates/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06cookie&amp;session/03/start.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06cookie&amp;session/03/templates/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06cookie&amp;session/06通过jq设置cookie/start.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06cookie&amp;session/06通过jq设置cookie/statics/jquery.cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06cookie&amp;session/06通过jq设置cookie/templates/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录2/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录2/start.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录3/oop复习.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录3/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录3/start.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/tornado_info.iml" afterPath="$PROJECT_DIR$/.idea/tornado_info.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01tornado_mvc/start.py" afterPath="$PROJECT_DIR$/01tornado_mvc/start.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06cookie&amp;session/05通过浏览器获取/start.py" afterPath="$PROJECT_DIR$/06cookie&amp;session/05通过浏览器获取/start.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06cookie&amp;session/05通过浏览器获取/templates/index.html" afterPath="$PROJECT_DIR$/06cookie&amp;session/05通过浏览器获取/templates/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,55 +55,39 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/tornado_info$demo.coverage" NAME="demo Coverage Results" MODIFIED="1505036740655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04tornado_cookie/02实现7天免登陆" />
+    <SUITE FILE_PATH="coverage/tornado_info$index__1_.coverage" NAME="index (1) Coverage Results" MODIFIED="1505037531991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04tornado_cookie/02实现7天免登陆" />
+    <SUITE FILE_PATH="coverage/tornado_info$start__4_.coverage" NAME="start (4) Coverage Results" MODIFIED="1505033726164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/验证码/03后端验证前端发来的code" />
+    <SUITE FILE_PATH="coverage/tornado_info$oop.coverage" NAME="oop复习 Coverage Results" MODIFIED="1504709636837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06cookie&amp;session/09session" />
+    <SUITE FILE_PATH="coverage/tornado_info$start__2_.coverage" NAME="start (2) Coverage Results" MODIFIED="1505033880936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/验证码/03后端验证前端发来的code2" />
+    <SUITE FILE_PATH="coverage/tornado_info$start.coverage" NAME="start Coverage Results" MODIFIED="1504878782639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录2" />
+    <SUITE FILE_PATH="coverage/tornado_info$app.coverage" NAME="app Coverage Results" MODIFIED="1505029393406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/验证码" />
+    <SUITE FILE_PATH="coverage/tornado_info$index.coverage" NAME="index Coverage Results" MODIFIED="1505036139277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04tornado_cookie" />
+    <SUITE FILE_PATH="coverage/tornado_info$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1505032674075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/验证码/02" />
+    <SUITE FILE_PATH="coverage/tornado_info$start__3_.coverage" NAME="start (3) Coverage Results" MODIFIED="1504793553276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06cookie&amp;session/07签名的cookie2-使用session实现用户登录" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\Administrator\Desktop\py\github.com\tornado_info\exportToHTML" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="start.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02tornado_ajax/start.py">
+        <entry file="file://$PROJECT_DIR$/06cookie&amp;session/06通过js设置cookie5s或5天&amp;jq设置cookie/start.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding>
-                <element signature="e#99#110#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="start.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01tornado_mvc/start.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            <state relative-caret-position="289">
+              <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03tornado_jq_ajax/index.py">
+      <file leaf-file-name="start.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04tornado_cookie/02签名的cookie用户登录案例/start.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-581">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03tornado_jq_ajax/template/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02tornado_ajax/templates/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="631">
-              <caret line="42" column="7" lean-forward="false" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+            <state relative-caret-position="330">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -93,22 +98,75 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>BashHandler</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>BaseHandler</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/tornado_ajax/template/login.html" />
-        <option value="$PROJECT_DIR$/02tornado_ajax/templates/login.html" />
         <option value="$PROJECT_DIR$/02tornado_ajax/start.py" />
-        <option value="$PROJECT_DIR$/01tornado_mvc/start.py" />
         <option value="$PROJECT_DIR$/03tornado_jq_ajax/template/login.html" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/templates/index.html" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/start.py" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/01/start.py" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/02/start.py" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/03/start.py" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/04/start.py" />
+        <option value="$PROJECT_DIR$/01tornado_mvc/templates/home/index.html" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/08签名的cookie-实现登录验证/templates/login.html" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/08签名的cookie-实现登录验证/start.py" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/07签名的cookie/start.py" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/09session/start.py" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/09session/oop复习.py" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/07签名的cookie2-使用session实现用户登录/start.py" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/07签名的cookie2-使用session实现用户登录/readme.md" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/09session/readme.md" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录2/readme.md" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录/readme.md" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录2/oop复习.py" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/01/templates/index.html" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录2/start.py" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录301/start.py" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录3/start.py" />
+        <option value="$PROJECT_DIR$/验证码/app.py" />
+        <option value="$PROJECT_DIR$/验证码/template/index.html" />
+        <option value="$PROJECT_DIR$/01tornado_mvc/start.py" />
+        <option value="$PROJECT_DIR$/验证码/02/__init__.py" />
+        <option value="$PROJECT_DIR$/验证码/02/template/index.html" />
+        <option value="$PROJECT_DIR$/验证码/02/template/login.html" />
+        <option value="$PROJECT_DIR$/验证码/02/start.py" />
+        <option value="$PROJECT_DIR$/验证码/03后端验证前端发来的code/template/login.html" />
+        <option value="$PROJECT_DIR$/验证码/03后端验证前端发来的code2/start.py" />
+        <option value="$PROJECT_DIR$/验证码/03后端验证前端发来的code2/template/login.html" />
+        <option value="$PROJECT_DIR$/验证码/03后端验证前端发来的code/start.py" />
+        <option value="$PROJECT_DIR$/04tornado_cookie/template/index.html" />
+        <option value="$PROJECT_DIR$/04tornado_cookie/template/login.html" />
+        <option value="$PROJECT_DIR$/02tornado_ajax/templates/login.html" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/03/templates/index.html" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/04/templates/index.html" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/05通过浏览器获取/templates/index.html" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/06通过jq设置cookie/templates/index.html" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/05通过浏览器获取/start.py" />
+        <option value="$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录3-BaseHandler/start.py" />
+        <option value="$PROJECT_DIR$/04tornado_cookie/index.py" />
+        <option value="$PROJECT_DIR$/04tornado_cookie/02实现7天免登陆/readme.md" />
+        <option value="$PROJECT_DIR$/04tornado_cookie/02实现7天免登陆/demo.py" />
+        <option value="$PROJECT_DIR$/04tornado_cookie/02实现7天免登陆/index.py" />
       </list>
     </option>
   </component>
@@ -118,23 +176,25 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-9" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="27" />
     <option name="y" value="-9" />
-    <option name="width" value="1358" />
-    <option name="height" value="736" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
-      <showMembers />
+      <showMembers ProjectPane="false" />
       <showModules />
       <showLibraryContents />
       <hideEmptyPackages />
       <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
+      <autoscrollToSource ProjectPane="false" />
+      <autoscrollFromSource ProjectPane="false" />
       <sortByType />
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
@@ -151,29 +211,13 @@
             <path>
               <item name="tornado_info" type="b2602c69:ProjectViewProjectNode" />
               <item name="tornado_info" type="462c0819:PsiDirectoryNode" />
-              <item name="01tornado_mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="04tornado_cookie" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tornado_info" type="b2602c69:ProjectViewProjectNode" />
               <item name="tornado_info" type="462c0819:PsiDirectoryNode" />
-              <item name="02tornado_ajax" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tornado_info" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tornado_info" type="462c0819:PsiDirectoryNode" />
-              <item name="02tornado_ajax" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tornado_info" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tornado_info" type="462c0819:PsiDirectoryNode" />
-              <item name="03tornado_jq_ajax" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tornado_info" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tornado_info" type="462c0819:PsiDirectoryNode" />
-              <item name="03tornado_jq_ajax" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="04tornado_cookie" type="462c0819:PsiDirectoryNode" />
+              <item name="02签名的cookie用户登录案例" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -185,12 +229,21 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.splitter.proportion" value="0.24197337" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Administrator/Desktop/github.com/tornado_info/06cookie&amp;session/09使用session实现简单用户登录2/start.py" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\py\github.com\tornado_info\06cookie&amp;session\01" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\py\github.com\tornado_info\02tornado_ajax" />
+      <recent name="C:\Users\Administrator\Desktop\github.com\tornado_info\04tornado_cookie\01签名的cookie用户登录案例" />
+      <recent name="C:\Users\Administrator\Desktop\github.com\tornado_info\验证码" />
+      <recent name="C:\Users\Administrator\Desktop\github.com\tornado_info\06cookie&amp;session" />
+      <recent name="C:\Users\Administrator\Desktop\py\github.com\tornado_info\06cookie&amp;session" />
+      <recent name="C:\Users\Administrator\Desktop\py\github.com\tornado_info\06cookie&amp;session\06通过jq设置cookie\statics" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -205,8 +258,119 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Python.demo">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04tornado_cookie/02实现7天免登陆" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tornado_info" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04tornado_cookie/02实现7天免登陆/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="index (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04tornado_cookie/02实现7天免登陆" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tornado_info" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04tornado_cookie/02实现7天免登陆/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04tornado_cookie" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tornado_info" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04tornado_cookie/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="start (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/验证码/03后端验证前端发来的code2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tornado_info" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/验证码/03后端验证前端发来的code2/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="start (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/验证码/03后端验证前端发来的code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tornado_info" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/验证码/03后端验证前端发来的code/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.start (4)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.start (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.index" />
+      <item index="3" class="java.lang.String" itemvalue="Python.index (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.demo" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.index (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.demo" />
+        <item index="2" class="java.lang.String" itemvalue="Python.index" />
+        <item index="3" class="java.lang.String" itemvalue="Python.start (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.start (4)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -223,34 +387,69 @@
       <option name="project" value="LOCAL" />
       <updated>1504621755001</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="整理了由浅入深的过程...">
+      <created>1504708760161</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1504708760161</updated>
+    </task>
+    <task id="LOCAL-00003" summary="整理了由浅入深的过程...">
+      <created>1504709873219</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1504709873220</updated>
+    </task>
+    <task id="LOCAL-00004" summary="整理了由浅入深的过程...">
+      <created>1504709924677</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1504709924677</updated>
+    </task>
+    <task id="LOCAL-00005" summary="整理了由浅入深的过程...">
+      <created>1504709980155</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1504709980155</updated>
+    </task>
+    <task id="LOCAL-00006" summary="session登录">
+      <created>1504796307592</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1504796307592</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14086147" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27414164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -262,30 +461,43 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="整理了由浅入深的过程..." />
-    <option name="LAST_COMMIT_MESSAGE" value="整理了由浅入深的过程..." />
+    <MESSAGE value="session登录" />
+    <option name="LAST_COMMIT_MESSAGE" value="session登录" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02tornado_upload/start.py">
+    <entry file="file://$PROJECT_DIR$/验证码/01/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="541">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tornado_ajax3/start.py">
+    <entry file="file://$PROJECT_DIR$/验证码/02/check_code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        <state relative-caret-position="-299">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tornado_learn/start.py">
+    <entry file="file://$PROJECT_DIR$/01tornado_mvc/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <folding>
+            <element signature="e#100#118#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/验证码/02/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -293,71 +505,413 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tornado_ajax/index.py">
+    <entry file="file://$PROJECT_DIR$/验证码/02/template/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        <state relative-caret-position="224">
+          <caret line="13" column="71" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="71" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tornado_ajax/template/login.html">
+    <entry file="file://$PROJECT_DIR$/验证码/02/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        <state relative-caret-position="-30">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tornado_cookie/index.py">
+    <entry file="file://$PROJECT_DIR$/验证码/02/start.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        <state relative-caret-position="540">
+          <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02tornado_ajax/start.py">
+    <entry file="file://$PROJECT_DIR$/验证码/02/template/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="492">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/验证码/03后端验证前端发来的code/template/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/验证码/03后端验证前端发来的code/check_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="51" column="20" lean-forward="false" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/验证码/03后端验证前端发来的code2/template/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
           <folding>
-            <element signature="e#99#110#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01tornado_mvc/start.py">
+    <entry file="file://$PROJECT_DIR$/验证码/03后端验证前端发来的code2/start.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        <state relative-caret-position="454">
+          <caret line="88" column="28" lean-forward="false" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
+          <folding>
+            <element signature="e#95#1565#0" expanded="false" />
+            <element signature="e#1715#1811#0" expanded="false" />
+            <element signature="e#1849#1940#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/验证码/03后端验证前端发来的code/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-116">
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding>
+            <element signature="e#95#1565#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04tornado_cookie/media/yanshis.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04tornado_cookie/template/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03tornado_jq_ajax/index.py">
+    <entry file="file://$PROJECT_DIR$/04tornado_cookie/template/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-581">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04tornado_cookie/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/01/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/02/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/03/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/03/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/04/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/04/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/05通过浏览器获取/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/06通过jq设置cookie/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/06通过jq设置cookie/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/05通过浏览器获取/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/03前端js函数设置cookie为5s/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/07签名的cookie/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="31" lean-forward="false" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/08签名的cookie-实现登录验证/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="36" column="32" lean-forward="false" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录2/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="48" column="24" lean-forward="false" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录3/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录4/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="71" column="23" lean-forward="true" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录3/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="43" column="17" lean-forward="false" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录2-简洁版/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="40" column="23" lean-forward="false" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录4-实现反射机制调用/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录3-BaseHandler/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/09使用session实现简单用户登录3-BaseHandler/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04tornado_cookie/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04tornado_cookie/01签名的cookie用户登录案例/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02tornado_ajax/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="42" column="7" lean-forward="false" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+        <state relative-caret-position="479">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03tornado_jq_ajax/template/login.html">
+    <entry file="file://$PROJECT_DIR$/02tornado_ajax/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03tornado_jq_ajax/index.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
-          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/04tornado_cookie/02实现7天免登陆/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="150">
+            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04tornado_cookie/02实现7天免登陆/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/02后端设置获取cookie/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04tornado_cookie/02实现7天免登陆/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04tornado_cookie/02隐私页面保护&amp;实现7天免登陆/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06cookie&amp;session/06通过js设置cookie5s或5天&amp;jq设置cookie/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04tornado_cookie/02签名的cookie用户登录案例/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

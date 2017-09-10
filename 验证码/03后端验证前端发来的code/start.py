@@ -2,10 +2,11 @@
 # coding=utf-8
 
 
-import tornado.ioloop
 import tornado.web
 
 container = {}
+
+
 class Session:
     def __init__(self, Handler):
         self.Handler = Handler
@@ -72,10 +73,47 @@ class GetHandler(BaseHandler):
         self.write(val)
 
 
+class LoginHandler(BaseHandler):
+    def get(self, *args, **kwargs):
+        self.render("login.html")
+
+    def post(self, *args, **kwargs):
+        import check_code
+        user = self.get_argument("username",None)
+        pwd = self.get_argument("pwd",None)
+        code = self.get_argument("checkcode",None)
+        checkcode = self.session["CheckCode"]
+        if code.upper() == checkcode.upper():
+            self.write("code rigth")
+        else:
+            self.redirect("/login")
+
+
+class CheckCodeHandler(BaseHandler):
+    def get(self, *args, **kwargs):
+        import check_code
+        import io
+        mstream = io.BytesIO()
+        img, code = check_code.create_validate_code()
+        img.save(mstream, "GIF")
+        self.session["CheckCode"] = code
+        print(mstream.getvalue())
+        self.write(mstream.getvalue())
+
+
+settings = {
+    'template_path': 'template',
+    'static_path': 'static',
+    'static_url_prefix': '/static/',
+    'cookie_secret': 'aiuasdhflashjdfoiuashdfiuh',
+}
+
 application = tornado.web.Application([
     (r'/set', SetHandler),
     (r'/get', GetHandler),
-])
+    (r'/login', LoginHandler),
+    (r'/checkcode', CheckCodeHandler),
+],**settings)
 
 if __name__ == '__main__':
     print('http://127.0.0.1:8888/set')

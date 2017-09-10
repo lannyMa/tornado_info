@@ -4,17 +4,13 @@
 ## 参考 http://blog.csdn.net/iiiiher/article/details/77461260
 
 
-import time
-import tornado.ioloop
 import tornado.web
-
 
 # 业务逻辑处理模块
 
 
 # 配置选项模块
 from controllers import home
-
 
 # 静态文件和模板文件的配置
 settings = {

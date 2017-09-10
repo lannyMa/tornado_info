@@ -15,6 +15,7 @@ class MainHandler(tornado.web.RequestHandler):
         # Set - Cookie: k1 = 1111
         self.render("index.html")
 
+
 settings = {
     'template_path': 'templates',
     'static_path': 'statics',

