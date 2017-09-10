@@ -46,5 +46,3 @@ class LogoutHandler(tornado.web.RequestHandler):
         self.redirect("/login")
 ```
 
-- 下面就是进入到隐私页面之后，cookie直接立即过期
-

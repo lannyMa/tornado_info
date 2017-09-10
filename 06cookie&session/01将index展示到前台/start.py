@@ -15,7 +15,9 @@ class MainHandler(tornado.web.RequestHandler):
 settings = {
     'template_path': 'templates',
     'static_path': 'statics',
-    'static_url_prefix': '/statics/',
+    'static_url_prefix': '/sss/',
+    'cookie_secret': "asfsdfasdf",
+    # 'xsrf_cookies': True
 }
 
 application = tornado.web.Application([

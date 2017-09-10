@@ -16,6 +16,9 @@ from controllers import home
 settings = {
     'template_path': 'templates',
     'static_path': 'statics',
+    'static_url_prefix': '/sss/',
+    'cookie_secret': "asfsdfasdf",
+    # 'xsrf_cookies': True
 }
 
 # 路由模块

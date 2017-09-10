@@ -13,6 +13,7 @@ class LoginHandler(tornado.web.RequestHandler):
         username = self.get_argument("username")
         password = self.get_argument("password")
         if username=="admin" and password=="admin123":
+            # self.write("成功登录")
             pass
         else:
             dic["status"] = False
@@ -32,10 +33,7 @@ settings = {
 # 路由模块
 application = tornado.web.Application([
     (r"/login", LoginHandler),
-
-],
-    **settings
-)
+], **settings)
 
 ## wsgi模块
 if __name__ == "__main__":
