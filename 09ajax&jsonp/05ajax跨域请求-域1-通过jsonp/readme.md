@@ -31,4 +31,25 @@
 </script>
 ```
 
-- l
+
+## jsonp的方式
+![](http://ww1.sinaimg.cn/large/9e792b8fgy1fjg16k4egtj20jl09q0wt)
+
+
+## 浏览器
+
+- ajax不允许跨域
+- script的src允许, 相当于发了个get
+- img的src允许
+- iframe的src允许
+
+
+
+- 自己实现jsonp方式
+![](http://ww1.sinaimg.cn/large/9e792b8fgy1fjg1wjuikmj20tq0ovjvm)
+
+
+
+
+
+

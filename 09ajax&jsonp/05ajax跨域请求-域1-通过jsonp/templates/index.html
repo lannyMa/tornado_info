@@ -1,18 +1,12 @@
-
-
-- 浏览器允许ajax跨域
-
-
-## 两个域都可以正常访问-通过ip
-![](http://ww1.sinaimg.cn/large/9e792b8fgy1fjff8egyzug20iv0giaqb.gif)
-
-## 两个域都可以正常访问-通过域名
-![](http://ww1.sinaimg.cn/large/9e792b8fgy1fjff8engp7g20iv0gitpn.gif)
-
-## 不允许跨域请求
-![](http://ww1.sinaimg.cn/large/9e792b8fgy1fjff8e7et7g20iv0gi49p.gif)
-```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>domain A</title>
+</head>
+<body>
 <input type="button" value="ajax" onclick="DoAjax();">
+<input type="button" value="JsonpAjax" onclick="JsonpAjax();">
 
 <script type="text/javascript" src="/sss/jquery-1.12.4.min.js"></script>
 <script>
@@ -28,7 +22,11 @@
             }
         })
     }
+    function JsonpAjax() {
+        var tag = document.createElement('script');
+        tag.src = "http://www.d2.com:8002/index";
+        document.head.appendChild(tag);
+    }
 </script>
-```
-
-- l
+</body>
+</html>
