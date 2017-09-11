@@ -1,20 +1,19 @@
 #!/usr/bin/env python
 # coding=utf-8
 
+## 参考 http://blog.csdn.net/iiiiher/article/details/77461260
 
 
 import tornado.web
+import tornado.ioloop
+
+# 业务逻辑处理模块
 
 
-class MainHandler(tornado.web.RequestHandler):
-    def get(self, *args, **kwargs):
-        # self.write("index get")
-        self.render("index.html")
+# 配置选项模块
+from controllers import home
 
-    def post(self, *args, **kwargs):
-        self.write("index post")
-
-
+# 静态文件和模板文件的配置
 settings = {
     'template_path': 'templates',
     'static_path': 'statics',
@@ -23,11 +22,15 @@ settings = {
     # 'xsrf_cookies': True
 }
 
+# 路由模块
+## 动态路由系统
 application = tornado.web.Application([
-    (r"/index", MainHandler),
-], **settings)
+    (r"/index/(?P<page>\d*)", home.IndexHandler),
+],
+    **settings
+)
 
+## wsgi模块
 if __name__ == "__main__":
-    print("http://127.0.0.1:8888/index")
     application.listen(8888)
     tornado.ioloop.IOLoop.instance().start()

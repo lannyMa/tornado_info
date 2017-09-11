@@ -1,10 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>domain A</title>
-</head>
-<body>
+
+
+
+## 两个域都可以正常访问-通过ip
+![](http://ww1.sinaimg.cn/large/9e792b8fgy1fjff8egyzug20iv0giaqb.gif)
+
+## 两个域都可以正常访问-通过域名
+![](http://ww1.sinaimg.cn/large/9e792b8fgy1fjff8engp7g20iv0gitpn.gif)
+
+## 不允许跨域请求
+![](http://ww1.sinaimg.cn/large/9e792b8fgy1fjff8e7et7g20iv0gi49p.gif)
+```
 <input type="button" value="ajax" onclick="DoAjax();">
 
 <script type="text/javascript" src="/sss/jquery-1.12.4.min.js"></script>
@@ -22,5 +27,4 @@
         })
     }
 </script>
-</body>
-</html>
+```

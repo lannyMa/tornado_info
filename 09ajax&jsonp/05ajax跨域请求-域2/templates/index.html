@@ -2,19 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>d2 page</title>
 </head>
-
 <body>
-<h1>hello world</h1>
-
-<script>
-    function setCookie(name, value, expires) {
-        var temp = [];
-        var current_date = new Date();
-        current_date.setSeconds(current_date.getSeconds() + 5);
-        document.cookie = name + "= " + value + ";expires=" + current_date.toUTCString();
-    }
-</script>
+<form action="/index" method="post">
+    <input type="text" name="user">
+    <input type="submit">
+</form>
 </body>
 </html>
