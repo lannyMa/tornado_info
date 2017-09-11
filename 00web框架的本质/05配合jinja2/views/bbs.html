@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bbs</title>
+    <style>
+        .box {
+            width: 200px;
+            height: 200px;
+            background-color: pink;
+        }
+    </style>
+</head>
+<body>
+<h1>name: {{ name }}</h1>
+<ul>
+    {% for user in user_list %}
+        <li>{{ user }}</li>
+    {% endfor %}
+</ul>
+</body>
+</html>
