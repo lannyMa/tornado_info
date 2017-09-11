@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bbs</title>
+    <link rel="stylesheet" href="{{ static_url("common.css") }}">
+    <!--<link rel="stylesheet" href="/sss/static/common.css">-->
+    <style>
+
+        .box {
+            width: 200px;
+            height: 200px;
+            background-color: pink;
+        }
+    </style>
+</head>
+<body>
+<h1>添加数据</h1>
+<form method="post" action="/index">
+    <input type="text" name="name">
+    <input type="submit" value="提交">
+</form>
+<h1>展示数据</h1>
+<ul>
+    {% for name in names %}
+        {% if name == "maotai" %}
+            <li style="color:yellow">{{ name }}</li>
+        {% else %}
+            <li>{{ name }}</li>
+        {% end %}
+    {% end %}
+</ul>
+</body>
+</html>
