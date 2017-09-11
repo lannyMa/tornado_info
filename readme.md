@@ -18,6 +18,7 @@
     - 安全的方式:session
 
 - 2.ajax
+  - 伪造的ajax
   - 原生的ajax
   - jquery ajax
   - 跨域ajax请求
@@ -25,10 +26,13 @@
 - 3.上传文件
   - from表单形式上传
   - ajax
-  - 
+  - jq
+  - iframe
+
 - 4.安全
   - xss
   - csrt
+    - 限制post请求
 - 5.form验证
 - 6.验证码
 
