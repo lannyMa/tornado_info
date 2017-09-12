@@ -51,7 +51,12 @@
         $.ajax({
             url: "http://jxntv.cn/data/jmd-jxtv2.html",
             dataType: 'jsonp',
-            jsonpCallBack: 'list'   // 对端给返回函数名，函数接收的参数是内容
+            jsonp: "callback",
+            jsonpCallBack: 'list',  // 对端给返回函数名，函数接收的参数是内容 ?callback=list
+            success: function (data, statusText, xmlHttpRequest) {
+                // 未指定jsonCallback时，则自定执行方法
+                console.log('success 回调执行:', data);
+            }
         })
     }
 </script>

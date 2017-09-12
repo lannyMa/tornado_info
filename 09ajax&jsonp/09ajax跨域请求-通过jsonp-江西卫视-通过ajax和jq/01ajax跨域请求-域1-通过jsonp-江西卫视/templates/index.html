@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>跨域请求最新电视节目清单</title>
+</head>
+<body>
+
+<h1>跨域请求</h1>
+<input type="submit" value="XmlSendRequest获取节目" onclick="XmlSendRequest();"/>
+
+<input type="submit" value="JqSendRequest-获取节目" onclick="JqSendRequest();"/>
+
+
+<script type="text/javascript" src="http://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+<script>
+    function XmlSendRequest() {
+        // 创建script标签
+        var tag = document.createElement('script');
+        // 指定src
+        tag.src = "http://www.jxntv.cn/data/jmd-jxtv2.html";
+        // 添加到head标签中
+        document.head.appendChild(tag);
+        // 删除script标签
+        document.head.removeChild(tag);
+    }
+
+    function JqSendRequest() {
+        $.ajax({
+            url: "http://www.jxntv.cn/data/jmd-jxtv2.html",
+            type: 'GET',
+            dataType: 'jsonp'
+        })
+    }
+
+    function list(arg) {
+        console.log(arg);
+    }
+
+</script>
+</body>
+</html>
