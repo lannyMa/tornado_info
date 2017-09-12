@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="button" value="Ajax" onclick="DoAjax();"/>
+<input type="button" value="JsonpAjax" onclick="JsonpAjax();"/>
+
+<script src="/sss/jquery-1.12.4.min.js"></script>
+{#    <script src="http://aylin.com:8002/statics/jquery.cookie.js"></script>#}
+<script>
+    function func(arg) {
+        console.log(arg);  // 输出结果就是python代码给传过来的列表[11,22,33,]
+    }
+
+    function DoAjax() {
+        $.ajax({
+            url: 'http://www.d2.com:8002/index',
+            type: 'POST',
+            data: {'k1': 'v1'},
+            success: function (arg) {
+                console.log(arg);
+            }
+        });
+    }
+
+    function JsonpAjax() {
+        {#           var tag = document.createElement('script');#}
+        {#           tag.src = "http://www.d2.com:8002/index";#}
+        {#           document.head.appendChild(tag);#}
+        {#           document.head.removeChild(tag);#}
+        $.ajax({
+            url: "http://www.d2.com:8002/index",
+            dataType: 'jsonp',
+            jsonpCallBack: 'func'   // 对端给返回函数名，函数接收的参数是内容
+        })
+    }
+</script>
+</body>
+</html>

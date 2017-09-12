@@ -4,16 +4,17 @@
 
 
 import tornado.web
-import tornado.ioloop
 
 
 class MainHandler(tornado.web.RequestHandler):
     def get(self):
-        # self.write("Hello, world")
-        self.render("index.html")
+        # self.write("domain2 get")
+        # self.render("index.html")
+        # self.write("alert(123);")
+        self.write("func([1,2,3,4])")
 
-    def post(self, *args, **kwargs):
-        self.write("domain1 post")
+    def post(self):
+        self.write("domain2 post")
 
 
 settings = {
@@ -29,6 +30,6 @@ application = tornado.web.Application([
 ], **settings)
 
 if __name__ == "__main__":
-    print("http://www.d1.com:8001/index")
-    application.listen(8001)
+    print("http://www.d2.com:8002/index")
+    application.listen(8002)
     tornado.ioloop.IOLoop.instance().start()
