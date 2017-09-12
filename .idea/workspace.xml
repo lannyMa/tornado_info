@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc9c33c7-5c1b-4636-a665-cfbc2c785513" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域1-通过jsonp/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域1-通过jsonp/start.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域1-通过jsonp/statics/jquery-1.12.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域1-通过jsonp/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09ajax&amp;jsonp/07ajax跨域请求-域1-通过jsonp-江西卫视/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09ajax&amp;jsonp/07ajax跨域请求-域1-通过jsonp-江西卫视/start.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09ajax&amp;jsonp/07ajax跨域请求-域1-通过jsonp-江西卫视/statics/jquery-1.12.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09ajax&amp;jsonp/07ajax跨域请求-域1-通过jsonp-江西卫视/templates/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域1/readme.md" afterPath="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域1/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域2/start.py" afterPath="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域2/start.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域2/templates/index.html" afterPath="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域2/templates/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,20 +18,20 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/tornado_info$oop.coverage" NAME="oop复习 Coverage Results" MODIFIED="1504709636837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06cookie&amp;session/09session" />
-    <SUITE FILE_PATH="coverage/tornado_info$start__2_.coverage" NAME="start (2) Coverage Results" MODIFIED="1505145659199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域2" />
+    <SUITE FILE_PATH="coverage/tornado_info$start__2_.coverage" NAME="start (2) Coverage Results" MODIFIED="1505174362259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域2" />
     <SUITE FILE_PATH="coverage/tornado_info$app.coverage" NAME="app Coverage Results" MODIFIED="1505029393406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/验证码" />
     <SUITE FILE_PATH="coverage/tornado_info$index.coverage" NAME="index Coverage Results" MODIFIED="1505036139277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04tornado_cookie" />
     <SUITE FILE_PATH="coverage/tornado_info$controller__1_.coverage" NAME="controller (1) Coverage Results" MODIFIED="1505101785095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00web框架的本质/05配合jinj2" />
-    <SUITE FILE_PATH="coverage/tornado_info$start__3_.coverage" NAME="start (3) Coverage Results" MODIFIED="1505138937189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00web框架的本质/15模板函数uimodule" />
+    <SUITE FILE_PATH="coverage/tornado_info$start__3_.coverage" NAME="start (3) Coverage Results" MODIFIED="1505174609529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09ajax&amp;jsonp/07ajax跨域请求-域1-通过jsonp-江西卫视" />
     <SUITE FILE_PATH="coverage/tornado_info$demo.coverage" NAME="demo Coverage Results" MODIFIED="1505036740655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04tornado_cookie/02实现7天免登陆" />
     <SUITE FILE_PATH="coverage/tornado_info$controller.coverage" NAME="controller Coverage Results" MODIFIED="1505100956138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00web框架的本质/04实现mvc拆分-news返回html" />
     <SUITE FILE_PATH="coverage/tornado_info$index__1_.coverage" NAME="index (1) Coverage Results" MODIFIED="1505037531991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04tornado_cookie/02实现7天免登陆" />
     <SUITE FILE_PATH="coverage/tornado_info$index__2_.coverage" NAME="index (2) Coverage Results" MODIFIED="1505039501387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03tornado_jq_ajax" />
-    <SUITE FILE_PATH="coverage/tornado_info$start__4_.coverage" NAME="start (4) Coverage Results" MODIFIED="1505103504152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00web框架的本质/09配置静态路径" />
+    <SUITE FILE_PATH="coverage/tornado_info$start__4_.coverage" NAME="start (4) Coverage Results" MODIFIED="1505173427042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09ajax&amp;jsonp/06ajax跨域请求-域1-通过jsonp-jq" />
     <SUITE FILE_PATH="coverage/tornado_info$start__5_.coverage" NAME="start (5) Coverage Results" MODIFIED="1505103800413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00web框架的本质/10静态化" />
     <SUITE FILE_PATH="coverage/tornado_info$start.coverage" NAME="start Coverage Results" MODIFIED="1505145660634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域1-通过jsonp" />
-    <SUITE FILE_PATH="coverage/tornado_info$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1505138656648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00web框架的本质/13通过get提交数据并展示" />
     <SUITE FILE_PATH="coverage/tornado_info$uimodule.coverage" NAME="uimodule Coverage Results" MODIFIED="1505138930270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00web框架的本质/15模板函数uimodule" />
+    <SUITE FILE_PATH="coverage/tornado_info$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1505172742392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09ajax&amp;jsonp/06ajax跨域请求-域1-通过jsonp" />
   </component>
   <component name="ExportToHTMLSettings">
     <option name="printScope" value="1" />
@@ -42,51 +39,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09ajax&amp;jsonp/07ajax跨域请求-域1-通过jsonp-江西卫视/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="46" column="29" lean-forward="true" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="start.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域1-通过jsonp/start.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="31" column="28" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域1-通过jsonp/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域2/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域1/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="start.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域2/start.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="517">
+              <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="start.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09ajax&amp;jsonp/07ajax跨域请求-域1-通过jsonp-江西卫视/start.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -119,9 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/09ajax&amp;jsonp/01将index展示到前台/start.py" />
-        <option value="$PROJECT_DIR$/01tornado_mvc/01将index展示到前台/start.py" />
-        <option value="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域1/start.py" />
         <option value="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域1/templates/index.html" />
         <option value="$PROJECT_DIR$/01tornado_mvc/02将index展示到前台-静态缓存/templates/index.html" />
         <option value="$PROJECT_DIR$/01tornado_mvc/02将index展示到前台-静态缓存/start.py" />
@@ -167,9 +141,12 @@
         <option value="$PROJECT_DIR$/00web框架的本质/14uimethod/templates/bbs.html" />
         <option value="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域1/readme.md" />
         <option value="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域1-通过jsonp/start.py" />
-        <option value="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域2/templates/index.html" />
         <option value="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域1-通过jsonp/templates/index.html" />
+        <option value="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域2/templates/index.html" />
+        <option value="$PROJECT_DIR$/09ajax&amp;jsonp/06ajax跨域请求-域1-通过jsonp/templates/index.html" />
         <option value="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域2/start.py" />
+        <option value="$PROJECT_DIR$/09ajax&amp;jsonp/06ajax跨域请求-域1-通过jsonp-jq/templates/index.html" />
+        <option value="$PROJECT_DIR$/09ajax&amp;jsonp/07ajax跨域请求-域1-通过jsonp-江西卫视/templates/index.html" />
       </list>
     </option>
   </component>
@@ -203,7 +180,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,46 +197,19 @@
               <item name="tornado_info" type="b2602c69:ProjectViewProjectNode" />
               <item name="tornado_info" type="462c0819:PsiDirectoryNode" />
               <item name="09ajax&amp;jsonp" type="462c0819:PsiDirectoryNode" />
-              <item name="05ajax跨域请求-域1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tornado_info" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tornado_info" type="462c0819:PsiDirectoryNode" />
-              <item name="09ajax&amp;jsonp" type="462c0819:PsiDirectoryNode" />
-              <item name="05ajax跨域请求-域1" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tornado_info" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tornado_info" type="462c0819:PsiDirectoryNode" />
-              <item name="09ajax&amp;jsonp" type="462c0819:PsiDirectoryNode" />
-              <item name="05ajax跨域请求-域1-通过jsonp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tornado_info" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tornado_info" type="462c0819:PsiDirectoryNode" />
-              <item name="09ajax&amp;jsonp" type="462c0819:PsiDirectoryNode" />
-              <item name="05ajax跨域请求-域1-通过jsonp" type="462c0819:PsiDirectoryNode" />
-              <item name="statics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tornado_info" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tornado_info" type="462c0819:PsiDirectoryNode" />
-              <item name="09ajax&amp;jsonp" type="462c0819:PsiDirectoryNode" />
-              <item name="05ajax跨域请求-域1-通过jsonp" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tornado_info" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tornado_info" type="462c0819:PsiDirectoryNode" />
-              <item name="09ajax&amp;jsonp" type="462c0819:PsiDirectoryNode" />
               <item name="05ajax跨域请求-域2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tornado_info" type="b2602c69:ProjectViewProjectNode" />
               <item name="tornado_info" type="462c0819:PsiDirectoryNode" />
               <item name="09ajax&amp;jsonp" type="462c0819:PsiDirectoryNode" />
-              <item name="05ajax跨域请求-域2" type="462c0819:PsiDirectoryNode" />
+              <item name="07ajax跨域请求-域1-通过jsonp-江西卫视" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tornado_info" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tornado_info" type="462c0819:PsiDirectoryNode" />
+              <item name="09ajax&amp;jsonp" type="462c0819:PsiDirectoryNode" />
+              <item name="07ajax跨域请求-域1-通过jsonp-江西卫视" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -270,7 +220,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,18 +233,18 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\git\github.com\tornado_info\00web框架的本质\04实现mvc拆分-news返回html\views" />
+      <recent name="C:\Users\Administrator\Desktop\github.com\tornado_info\10tornado_upload\02文件上传之ajax" />
+      <recent name="C:\Users\Administrator\Desktop\github.com\tornado_info\07ajax&amp;jsonp\03跨浏览器支持\templates" />
+      <recent name="C:\Users\Administrator\Desktop\py\github.com\tornado_info\06cookie&amp;session\01" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\github.com\tornado_info\09ajax&amp;jsonp" />
       <recent name="C:\Users\Administrator\Desktop\github.com\tornado_info\00web框架的本质" />
       <recent name="C:\Users\Administrator\Desktop\git\github.com\tornado_info\00web框架的本质" />
       <recent name="C:\Users\Administrator\Desktop\git\github.com\tornado_info\00web框架的本质\09配置静态路径\statics" />
       <recent name="C:\Users\Administrator\Desktop\git\github.com\tornado_info\00web框架的本质\08配置template路径\templates" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\git\github.com\tornado_info\00web框架的本质\04实现mvc拆分-news返回html\views" />
-      <recent name="C:\Users\Administrator\Desktop\github.com\tornado_info\10tornado_upload\02文件上传之ajax" />
-      <recent name="C:\Users\Administrator\Desktop\github.com\tornado_info\07ajax&amp;jsonp\03跨浏览器支持\templates" />
-      <recent name="C:\Users\Administrator\Desktop\py\github.com\tornado_info\06cookie&amp;session\01" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -309,8 +259,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.start (2)">
-    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tornado_info/09ajax&amp;jsonp/05ajax跨域请求-域1-通过jsonp/templates/index.html" />
+  <component name="RunManager" selected="Python.start (3)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tornado_info/09ajax&amp;jsonp/07ajax跨域请求-域1-通过jsonp-江西卫视/templates/index.html" />
+    <configuration name="start (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09ajax&amp;jsonp/06ajax跨域请求-域1-通过jsonp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tornado_info" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09ajax&amp;jsonp/06ajax跨域请求-域1-通过jsonp/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="start (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -336,67 +304,49 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00web框架的本质/15模板函数uimodule" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09ajax&amp;jsonp/07ajax跨域请求-域1-通过jsonp-江西卫视" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tornado_info" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00web框架的本质/15模板函数uimodule/start.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09ajax&amp;jsonp/07ajax跨域请求-域1-通过jsonp-江西卫视/start.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="start (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域1-通过jsonp" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09ajax&amp;jsonp/06ajax跨域请求-域1-通过jsonp-jq" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tornado_info" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域1-通过jsonp/start.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="uimodule" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00web框架的本质/15模板函数uimodule" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="tornado_info" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00web框架的本质/15模板函数uimodule/uimodule.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09ajax&amp;jsonp/06ajax跨域请求-域1-通过jsonp-jq/start.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.uimodule" />
-      <item index="1" class="java.lang.String" itemvalue="Python.start (3)" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="3" class="java.lang.String" itemvalue="Python.start" />
-      <item index="4" class="java.lang.String" itemvalue="Python.start (2)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.start (2)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.start (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.start (4)" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.start (3)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.start" />
+        <item index="0" class="java.lang.String" itemvalue="Python.start (3)" />
         <item index="1" class="java.lang.String" itemvalue="Python.start (2)" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="3" class="java.lang.String" itemvalue="Python.start (3)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.uimodule" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.start (4)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.start (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -503,17 +453,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23282887" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25378346" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16738197" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1695279" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -528,6 +477,30 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25378346" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1695279" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -551,18 +524,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/00web框架的本质/03实现mvc拆分/01new.html" />
-    <entry file="file://$PROJECT_DIR$/00web框架的本质/03实现mvc拆分/controller.py" />
-    <entry file="file://$PROJECT_DIR$/00web框架的本质/04实现mvc拆分-news返回html/urls.py" />
-    <entry file="file://$PROJECT_DIR$/00web框架的本质/04实现mvc拆分-news返回html/views/new.html" />
-    <entry file="file://$PROJECT_DIR$/00web框架的本质/04实现mvc拆分-news返回html/start.py" />
-    <entry file="file://$PROJECT_DIR$/00web框架的本质/04实现mvc拆分-news返回html/controller.py" />
     <entry file="file://$PROJECT_DIR$/00web框架的本质/04实现mvc拆分-news返回html/views/bbs.html" />
     <entry file="file://$PROJECT_DIR$/00web框架的本质/04实现mvc拆分-bbs动态刷新时间/start.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -664,7 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -692,7 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -706,51 +670,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/00web框架的本质/13通过get提交数据并展示/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00web框架的本质/13通过get提交数据并展示/uimethod.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00web框架的本质/13通过get提交数据并展示/templates/bbs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="23" column="7" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00web框架的本质/13通过get提交数据并展示/start.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00web框架的本质/14模板函数uimethod/start.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/00web框架的本质/13通过get提交数据并展示/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/00web框架的本质/13通过get提交数据并展示/uimethod.py" />
+    <entry file="file://$PROJECT_DIR$/00web框架的本质/13通过get提交数据并展示/templates/bbs.html" />
+    <entry file="file://$PROJECT_DIR$/00web框架的本质/13通过get提交数据并展示/start.py" />
+    <entry file="file://$PROJECT_DIR$/00web框架的本质/14模板函数uimethod/start.py" />
     <entry file="file://$PROJECT_DIR$/00web框架的本质/15模板函数uimodule/templates/bbs.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -758,9 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="e#38#70#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -778,7 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -786,7 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -805,7 +728,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="627">
             <caret line="33" column="3" lean-forward="false" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -816,7 +738,6 @@
         <state split_layout="SECOND">
           <first_editor relative-caret-position="210">
             <caret line="7" column="57" lean-forward="true" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -835,7 +756,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -843,23 +763,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域1-通过jsonp/start.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
+        <state relative-caret-position="900">
           <caret line="31" column="28" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域1/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域1-通过jsonp/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="450">
           <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
           <folding />
         </state>
@@ -867,16 +779,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域2/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state relative-caret-position="450">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域1/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09ajax&amp;jsonp/06ajax跨域请求-域1-通过jsonp/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="36" column="9" lean-forward="false" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09ajax&amp;jsonp/06ajax跨域请求-域1-通过jsonp/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09ajax&amp;jsonp/06ajax跨域请求-域1-通过jsonp-jq/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09ajax&amp;jsonp/06ajax跨域请求-域1-通过jsonp-jq/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/09ajax&amp;jsonp/05ajax跨域请求-域2/start.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="517">
+          <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09ajax&amp;jsonp/07ajax跨域请求-域1-通过jsonp-江西卫视/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09ajax&amp;jsonp/07ajax跨域请求-域1-通过jsonp-江西卫视/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="46" column="29" lean-forward="true" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
           <folding />
         </state>
       </provider>
